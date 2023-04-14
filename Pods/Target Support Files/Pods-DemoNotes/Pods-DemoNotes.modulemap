@@ -1,0 +1,6 @@
+framework module Pods_DemoNotes {
+  umbrella header "Pods-DemoNotes-umbrella.h"
+
+  export *
+  module * { export * }
+}
